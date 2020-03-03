@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #72b4ca;
+  width: 100%;
+}
+
+.container {
+  position: grid;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  color: #ecf5f5;
+}
+
+/*# sourceMappingURL=/app.c328ef1a.css.map */

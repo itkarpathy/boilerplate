@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(114, 180, 202);
+  width: 100%;
+}
+
+.container {
+  position: grid;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  color: rgb(236, 245, 245);
+}
